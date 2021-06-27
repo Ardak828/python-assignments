@@ -53,3 +53,8 @@ Some of the commands possibly can be used as templates If working in a team on t
 Python C4D documentation
 \
 https://developers.maxon.net/docs/Cinema4DPythonSDK/html/index.html
+\
+\
+\
+Midterm Presenation:
+https://docs.google.com/presentation/d/14UquPIxvGVgPncuhx368ZFRXR1xOlfigEL7C59Y0TDs/edit?usp=sharing
