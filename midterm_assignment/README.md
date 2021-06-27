@@ -1,7 +1,7 @@
 # python-midterm-assignment
 # Ardak Mukanova
 \
-Since I’ve been working in Cinema 4d for a while, I wanted to explore the inner tools we can create using python that natively Cinema doesn’t have or doesn’t allow us to use quickly. It can be similar to creating custom templates for the workflow. And maybe, different types of workspaces to save time. Also, it is good to have these tools to use in teams working on the same projects or the same production space.
+Since I’ve been working in Cinema 4d for a while, I wanted to explore the inner tools we can create using python that natively Cinema 4D doesn’t have or doesn’t allow us to use quickly. It can be similar to creating custom templates for the workflow. And maybe, different types of workspaces to save time. Also, it is good to have these tools to use in teams working on the same projects or the same production space.
 \
 \
 Goal:
@@ -19,7 +19,7 @@ Some benefits of using customization:
 
 - Docking custom buttons into the shelf to access them quickly
 
-- Scripting can allow us to do something that Cinema natively doesn’t allow us to do
+- Scripting can allow us to do something that Cinema 4D doesn’t allow us to do
 
 \
 As an example I started with basic commands I use often. First is Center Position, which centers the active object to 0 position. And the Second is a Custom Camera that is aligned to spline and has a target tag. 
