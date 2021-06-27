@@ -3,23 +3,24 @@
 \
 Since I’ve been working in Cinema 4d for a while, I wanted to explore the inner tools we can create using python that natively Cinema doesn’t have or doesn’t allow us to use quickly. It can be similar to creating custom templates for the workflow. And maybe, different types of workspaces to save time. Also, it is good to have these tools to use in teams working on the same projects or the same production space.
 \
+\
 Goal:
 \
 Use python to create custom commands in Cinema 4D for the convenient workspace. 
 \
 \
 Some benefits of using customization:
-\ 
+ 
 - Making working time more efficient
-\ 
+ 
 - Save time for creating basing objects or commands we use often
-\
+
 - Assigning hotkeys to various tools and functions
-\
+
 - Docking custom buttons into the shelf to access them quickly
-\
+
 - Scripting can allow us to do something that Cinema natively doesn’t allow us to do
-\
+
 \
 As an example I started with basic commands I use often. First is Center Position, which centers the active object to 0 position. And the Second is a Custom Camera that is aligned to spline and has a target tag. 
 \
@@ -29,15 +30,15 @@ For the second example - Custom Camera interpreting the script log was a lot har
 \
 \
 Problems
-\
+
 - Saving the progress, accidentally can overwrite the existing script, and create errors. Hard to go back.
-\ 
+ 
 - Script log doesn’t show all the commands. Need to search manually. 
-\
+
 - The code from the script log sometimes requires a different interpretation.
-\
+
 - Python with C4D doesn’t seem very popular, sometimes hard to find the specific solution to a problem. 
-\
+
 \
 Future goals:
 \
