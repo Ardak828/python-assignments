@@ -62,3 +62,8 @@ https://www.youtube.com/c/МихаилЮдин/videos
 Arttu Rautio tutorials:
 \
 https://aturtur.com/category/cinema-4d/
+\
+\
+\
+Final Project Presentation:
+https://docs.google.com/presentation/d/13ySGF3zbK5qJngzfkdGUPzoBPga4aw4IDGtkKM9_U9I/edit?usp=sharing
